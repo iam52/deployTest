@@ -1,4 +1,4 @@
-package com.hunmin.domain.deplytest;
+package com.hunmin.domain.deploytest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

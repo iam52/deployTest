@@ -1,11 +1,11 @@
-package com.hunmin.domain.deplytest.web;
+package com.hunmin.domain.deploytest.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import lombok.extern.slf4j.Slf4j;
 
-public class DeplyController {
+public class DeployController {
 
     @Slf4j
     @RestController
